@@ -1,0 +1,60 @@
+body {
+  padding: 30px;
+  background-color: rgb(247, 214, 170);
+}
+
+p {
+  font-size: 16px;
+  color: hsl(24, 5%, 18%);
+  font-family: 'https://fonts.google.com/specimen/Young+Serif';
+}
+
+.birinchi-div {
+  background-color: hsl(330, 100%, 98%);
+  width: 648px;
+  padding: 1px;
+}
+
+h2 {
+  color: rgb(112, 60, 69);
+}
+
+#muhim-div {
+  /* text-align: center; */
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 260px;
+  width: 645px;
+}
+
+.first-ul {
+  margin: 10px;
+ }
+
+.first-h4 {
+  margin: 15px;
+}
+
+img {
+  padding-top: 30px;
+}
+
+table {
+  padding-bottom: 30px;
+  color: hsl(24, 5%, 18%);
+}
+
+th {
+  border: 1px solid;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  width: 400px;
+  text-align: left;
+  /* border-bottom: 0; */
+}
+
+.first-p {
+  margin-top: -8px;
+}
